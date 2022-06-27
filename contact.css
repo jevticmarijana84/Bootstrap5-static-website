@@ -1,0 +1,29 @@
+.icon {
+    width: 45px;
+    height: 45px;
+    border-radius: 8px;
+}
+
+form {
+    height: 850px;
+}
+
+input, textarea {
+    min-width: 300px;
+}
+
+footer {
+    height: 100px;
+}
+
+@media (min-width: 768px) {
+    #row1, #row2 {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    #row1, #row2 {
+        width: 40%;
+    }
+}

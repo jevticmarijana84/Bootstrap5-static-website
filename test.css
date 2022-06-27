@@ -1,0 +1,42 @@
+main {
+    min-height: 580px;
+}
+
+@media (min-width: 992px) {
+    .mainBtn {
+        width: 25%;
+        max-width: 150px;
+    }
+}
+
+.icon {
+    width: 45px;
+    height: 45px;
+    border-radius: 8px;
+}
+
+#quotes {
+    max-height: 500px;
+    min-height: 350px;
+}
+
+#ceo {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.user-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+form {
+    min-height: 250px;
+    border-radius: 5px;
+}
+
+footer {
+    height: 100px;
+}
